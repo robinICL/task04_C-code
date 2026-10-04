@@ -1,0 +1,16 @@
+D:\task04\task04\bin\Debug\net10.0-windows\task04.exe
+D:\task04\task04\bin\Debug\net10.0-windows\task04.deps.json
+D:\task04\task04\bin\Debug\net10.0-windows\task04.runtimeconfig.json
+D:\task04\task04\bin\Debug\net10.0-windows\task04.dll
+D:\task04\task04\bin\Debug\net10.0-windows\task04.pdb
+D:\task04\task04\obj\Debug\net10.0-windows\task04.frmExpenseClaimEstimator.resources
+D:\task04\task04\obj\Debug\net10.0-windows\task04.csproj.GenerateResource.cache
+D:\task04\task04\obj\Debug\net10.0-windows\task04.GeneratedMSBuildEditorConfig.editorconfig
+D:\task04\task04\obj\Debug\net10.0-windows\task04.AssemblyInfoInputs.cache
+D:\task04\task04\obj\Debug\net10.0-windows\task04.AssemblyInfo.cs
+D:\task04\task04\obj\Debug\net10.0-windows\task04.csproj.CoreCompileInputs.cache
+D:\task04\task04\obj\Debug\net10.0-windows\task04.dll
+D:\task04\task04\obj\Debug\net10.0-windows\refint\task04.dll
+D:\task04\task04\obj\Debug\net10.0-windows\task04.pdb
+D:\task04\task04\obj\Debug\net10.0-windows\task04.genruntimeconfig.cache
+D:\task04\task04\obj\Debug\net10.0-windows\ref\task04.dll
